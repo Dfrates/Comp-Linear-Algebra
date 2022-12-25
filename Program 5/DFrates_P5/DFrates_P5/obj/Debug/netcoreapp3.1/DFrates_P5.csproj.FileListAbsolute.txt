@@ -1,0 +1,13 @@
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/bin/Debug/netcoreapp3.1/DFrates_P5.deps.json
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/bin/Debug/netcoreapp3.1/DFrates_P5.runtimeconfig.json
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/bin/Debug/netcoreapp3.1/DFrates_P5.runtimeconfig.dev.json
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/bin/Debug/netcoreapp3.1/DFrates_P5.dll
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/bin/Debug/netcoreapp3.1/DFrates_P5.pdb
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.csproj.AssemblyReference.cache
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.AssemblyInfoInputs.cache
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.AssemblyInfo.cs
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.csproj.CoreCompileInputs.cache
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.dll
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.pdb
+/Users/dfrates/cs2300/Program 5/DFrates_P5/DFrates_P5/obj/Debug/netcoreapp3.1/DFrates_P5.genruntimeconfig.cache

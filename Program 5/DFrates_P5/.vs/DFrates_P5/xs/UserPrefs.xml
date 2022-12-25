@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EBCC26AA-110F-401D-93B5-06F0A2B9641E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DFrates_P5/Program.cs">
+    <Files>
+      <File FileName="DFrates_P5/Program.cs" Line="75" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DFrates_P5" expanded="True">
+            <Node name="DFrates_P5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DFrates__P5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/bin/Debug/netcoreapp3.1/DFrates_part1.deps.json
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/bin/Debug/netcoreapp3.1/DFrates_part1.runtimeconfig.json
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/bin/Debug/netcoreapp3.1/DFrates_part1.runtimeconfig.dev.json
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/bin/Debug/netcoreapp3.1/DFrates_part1.dll
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/bin/Debug/netcoreapp3.1/DFrates_part1.pdb
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.csproj.AssemblyReference.cache
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.AssemblyInfoInputs.cache
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.AssemblyInfo.cs
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.csproj.CoreCompileInputs.cache
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.dll
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.pdb
+/Users/dfrates/cs2300/Program3/Assignment3/DFrates_part1/DFrates_part1/obj/Debug/netcoreapp3.1/DFrates_part1.genruntimeconfig.cache

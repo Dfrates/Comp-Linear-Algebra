@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DFrates_P4/1.0.0": {
+        "runtime": {
+          "DFrates_P4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DFrates_P4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

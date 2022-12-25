@@ -1,0 +1,35 @@
+****************** INPUT *****************
+84      36      55      88      95      31      100     56      87      
+19      45      91      2       12      90      31      19      20      
+51      63      32      38      21      63      84      62      50      
+9       21      54      55      27      23      37      5       38      
+52      77      32      33      27      78      49      6       42      
+88      72      100     23      66      10      55      26      99      
+18      5       47      67      79      82      12      58      82      
+24      93      91      83      70      65      8       79      86      
+30      80      98      57      31      34      26      81      48      
+41      66      23      42      64      80      53      2       86      
+****************** PART A *****************
+Culling output: 1
+
+Cullling output: 0
+Light Intesity: max(-0.37,0)
+
+Cullling output: 0
+Light Intesity: max(0.64,0)
+
+Culling output: 1
+
+Culling output: 1
+
+Culling output: 1
+
+Cullling output: 0
+Light Intesity: max(-0.05,0)
+
+Culling output: 1
+
+Culling output: 1
+
+****************** PART B *****************
+****************** PART C *****************
